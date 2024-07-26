@@ -1,0 +1,7 @@
+﻿  Rock_paper_scissors.cpp
+F:\My_github_apps\Rock_paper_scissors\Rock_paper_scissors\Rock_paper_scissors.cpp(89,16): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+F:\My_github_apps\Rock_paper_scissors\Rock_paper_scissors\Rock_paper_scissors.cpp(46,1): warning C4715: 'playerChooseWeapon': not all control paths return a value
+F:\My_github_apps\Rock_paper_scissors\Rock_paper_scissors\Rock_paper_scissors.cpp(59,1): warning C4715: 'computerChooseWeapon': not all control paths return a value
+F:\My_github_apps\Rock_paper_scissors\Rock_paper_scissors\Rock_paper_scissors.cpp(83,1): warning C4715: 'checkWinner': not all control paths return a value
+F:\My_github_apps\Rock_paper_scissors\Rock_paper_scissors\Rock_paper_scissors.cpp(158,1): warning C4715: 'startGame': not all control paths return a value
+  Rock_paper_scissors.vcxproj -> F:\My_github_apps\Rock_paper_scissors\x64\Debug\Rock_paper_scissors.exe

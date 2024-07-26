@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\My_github_apps\\Rock_paper_scissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\My_github_apps\\Rock_paper_scissors\\Rock_paper_scissors\\Rock_paper_scissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rock_paper_scissors\\Rock_paper_scissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rock_paper_scissors.cpp",
+              "DocumentMoniker": "F:\\My_github_apps\\Rock_paper_scissors\\Rock_paper_scissors\\Rock_paper_scissors.cpp",
+              "RelativeDocumentMoniker": "Rock_paper_scissors\\Rock_paper_scissors.cpp",
+              "ToolTip": "F:\\My_github_apps\\Rock_paper_scissors\\Rock_paper_scissors\\Rock_paper_scissors.cpp",
+              "RelativeToolTip": "Rock_paper_scissors\\Rock_paper_scissors.cpp",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAIwKMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T15:47:10.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
